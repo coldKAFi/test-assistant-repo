@@ -18,7 +18,7 @@ This repository is created to evaluate the assistant's ability to use Git, VSCod
 
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/YOUR_USERNAME/test-assistant-repo.git>
+   git clone <https://github.com/coldkafi/test-assistant-repo.git>
    ```
 2. Navigate to the repository directory:
    ```sh
